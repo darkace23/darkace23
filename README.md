@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @darkace23
-- 👀 I’m interested in tech , programming , pc setups and hacking. 
+- 👋 Hi, I’m Imath Minuwara.
+- 👀 I’m interested in tech & hacking. 
 - 🌱 I’m currently learning cyber security.
-- 💞️ I’m looking to collaborate with no one .
-- 📫 No you can't reach me :)
 
 <!---
 darkace23/darkace23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
